@@ -1,0 +1,4 @@
+Joao;10;Ed Sheeran;MAGIC!;Beyoncé;Alicia Keys;Jason Mraz;ANAVITÓRIA;Projota;Melim;Vitor Kley;Metallica
+Malu;2;Marilia Medonça;Metallica
+Pedro;0
+Alice;2;Marilia Medonça;Metallica

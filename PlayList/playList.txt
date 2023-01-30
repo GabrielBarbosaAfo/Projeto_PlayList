@@ -1,0 +1,4 @@
+Joao;3;acoustic-hits.txt;nacional.txt;heavymetal.txt
+Malu;2;sertanejo.txt;metal.txt
+Pedro;1;eletronica.txt
+Alice;2;sert.txt;eletrica.txt

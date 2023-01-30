@@ -1,0 +1,3 @@
+Joao;Malu;5
+Joao;Pedro;0
+Pedro;Alice;0

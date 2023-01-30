@@ -1,0 +1,4 @@
+Joao;Malu;Pedro;Alice
+Joao;Malu
+Joao;Pedro
+Pedro;Alice
