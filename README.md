@@ -1,2 +1,2 @@
 # Projeto_PlayList
- Criando e compartilhnado playlist em linguagem C
+ Criando e compartilhnado playlist  em linguagem C
